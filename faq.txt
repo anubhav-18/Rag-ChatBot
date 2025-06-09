@@ -1,0 +1,11 @@
+Q: What is your product or service? 
+A: Our product is a customizable platform that helps businesses manage operations, streamline workflows, and enhance customer support with scalable solutions.
+
+Q: Can I use the product without creating an account or logging in? 
+A: No, an account is required to access personalized features and ensure data security. Sign up is quick and free for basic access.
+
+Q: How can I manage or cancel my subscription? 
+A: Go to the account settings in the app or website, select "Subscription," and follow the prompts to manage or cancel. Changes take effect at the end of the billing cycle.
+
+Q: What are the data security and privacy controls? 
+A: We use end-to-end encryption, secure cloud storage, and comply with GDPR and CCPA standards to protect your data. You can manage privacy settings in your account.
